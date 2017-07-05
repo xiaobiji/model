@@ -1,6 +1,6 @@
 <?php
 //1.设置命名空间；2.让此文件能通过composer来进行自动载入本文件
-namespace houdunwang\model;
+namespace xiaobiji\model;
 //1.创建Model类；2.可以获得表单名称和链接PDO的参数
 class Model
 {
