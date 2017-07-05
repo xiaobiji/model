@@ -1,5 +1,5 @@
 <?php
-namespace houdunwang\model;
+namespace xiaobiji\model;
 use PDO;
 use PDOException;
 class Base{

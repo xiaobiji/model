@@ -1,4 +1,9 @@
 {
     "name": "xiaobiji/model",
-    "require": {}
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "xiaobiji\\model\\":""
+        }
+    }
 }
